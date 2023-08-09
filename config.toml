@@ -1,0 +1,60 @@
+baseURL = "http://fl.mt"
+languageCode = "en-us"
+title = "Florian Matter"
+theme = "hugo-cite"
+
+[params]
+profilePicture = "images/profile.jpg"
+title = "Florian Matter"
+author = "Florian Matter"
+description= "I do things with languages and computers."
+contentratio = 0.75
+font_size = "XS"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:fmatter@mailbox.org"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/fmatter"
+
+[[params.socialIcons]]
+icon = "fab fa-orcid"
+title = "orcid"
+url = "https://orcid.org/0000-0002-2545-5154"
+
+[menu]
+
+  [[menu.main]]
+  name = "About me"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Digital grammars"
+  identifier = "digital-grammars"
+  weight = 200
+  url = "/digital-grammars/"
+
+  [[menu.main]]
+  name = "Research output"
+  identifier = "research"
+  weight = 200
+  url = "/research/"
+
+  [[menu.main]]
+  name = "Code"
+  identifier = "software"
+  weight = 300
+  url = "/software/"
+
+[module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
