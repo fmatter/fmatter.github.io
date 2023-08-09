@@ -6,6 +6,6 @@ bibFile = "bib.json"
 
 Existing work on digital grammaticography:
 
-* {{< cite key="nordhoff2012electronic;sterne2015digital" >}}
+* {{< cite "nordhoff2012electronic;sterne2015digital" >}}
 
 {{< bibliography cited >}}
