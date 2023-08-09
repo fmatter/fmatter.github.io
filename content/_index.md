@@ -3,10 +3,11 @@ title = "About"
 +++
 
 I am a descriptive and historical linguist with a heavy computational bend.
-During my PhD, I have specialized on [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages, but I am interested in a wide range of human languages their structural aspects , from phonetic details to diachronic morphosyntax.
+During my PhD, I have specialized on [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages, but I am interested in a wide range of human languages their structural aspects, from phonetic details to diachronic morphosyntax.
 My weapons of choice for linguistic data wrangling are python and [pandas](https://pandas.pydata.org/).
 All of the work I do is centered on "low-resource" languages, so modern NLP tools are out of the question (for now).
 For modeling linguistic data, I am particularly fond of (and proficient in) the [CLDF](https://cldf.clld.org/)/[CLLD](https://clld.org/) framework.
+If you are interested in working with me, please get in touch.
 
 Having completed my PhD at the University of Bern, I am currently a "Courtesy Research Associate" at the University of Oregon.
 My current work focuses on how to write, distribute, and consume [digital grammatical descriptions](/digital-grammars).

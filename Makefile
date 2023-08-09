@@ -2,4 +2,5 @@ research:
 	python3 generate_research.py
 
 bib:
-	citation-js --input /home/florianm/Dropbox/research/documentation_project/language_description.bib --output bib
+	biblatex2bibtex /home/florianm/Dropbox/research/documentation_project/language_description.bib --output sources.bib
+	citation-js --input sources.bib --output bib

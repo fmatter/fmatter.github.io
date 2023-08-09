@@ -4,8 +4,32 @@ bibFile = "bib.json"
 +++
 
 
-Existing work on digital grammaticography:
+## Theoretical work on digital grammaticography:
 
-* {{< cite key="nordhoff2012electronic;sterne2015digital" textCite="true" >}}
+* {{< cite "nordhoff2008electronic-" >}}
+* contributions in {{< cite "nordhoff2012electronic-" >}}
+    * {{< cite "drude2012wiki-" >}}
+    * {{< cite "nordhoff2012pairs-" >}}
 
+## Implemented grammars:
+
+* {{< cite "thieberger2018nunggubuyu-" >}}, as described in {{< cite "muskgrave2012nunggubuyu-" >}}
+* {{< cite "lau2021online-" >}}, as described in {{< cite "lau2021abesabesi-" >}}
+* {{< cite "junker2000cree-" >}}
+
+There was also the now-defunct GALOES {{< cite "nordhoff2007galoes;nordhoff2007writing;nordhoff2007growing" >}}
+
+## My approach
+
+* linguistic linked data {{< cite "chiarcos2012linked" >}}, implemented in the [CLDF](https://cldf.clld.org/)/[CLLD](https://clld.org/) ecosystem
+* descriptive prose is written in markdown, compiled to different (customizable) output formats with [pylingdocs](https://github.com/fmatter/pylingdocs/)
+    * this includes PDF (via LateX) and HTML
+* linguistic data are encoded as a CLDF dataset ([example](https://github.com/caribank/yawarana-corpus-cldf))
+    * using my [cldf-ldd](https://github.com/fmatter/cldf-ldd/) component collection
+    * converters for [\*box](https://github.com/fmatter/unboxer) and [FLEx](https://github.com/fmatter/cldflex) are available
+* ...and served as a CLLD app (example)
+    * CLLD plugins for [corpora](https://github.com/fmatter/clld-corpus-plugin), [morphology](https://github.com/fmatter/clld-morphology-plugin)
+    * rendered with a [markdown plugin](https://github.com/clld/clld-markdown-plugin) and stylized with a [document plugin](https://github.com/fmatter/clld-corpus-plugin)
+
+## References
 {{< bibliography cited >}}
