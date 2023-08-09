@@ -1,7 +1,4 @@
-+++
-title = "About"
-+++
-
+# About me
 I am a descriptive and historical linguist with a heavy computational bend.
 During my PhD, I have specialized on [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages, but I am interested in a wide range of human languages their structural aspects, from phonetic details to diachronic morphosyntax.
 My weapons of choice for linguistic data wrangling are python and [pandas](https://pandas.pydata.org/).

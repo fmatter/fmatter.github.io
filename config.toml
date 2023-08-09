@@ -10,6 +10,8 @@ author = "Florian Matter"
 description= "Crafting digital solutions for linguistics."
 contentratio = 0.75
 font_size = "XS"
+customCss = ["css/custom.css"]
+doNotLoadAnimations = true
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
