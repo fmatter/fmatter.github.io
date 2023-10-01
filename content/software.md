@@ -4,7 +4,7 @@ title = "Software"
 
 I mostly code in Python; here's some of the software I've developed:
 
-* [pylingdocs](fl.mt/pylingdocs): write data-rich linguistics documents. You can integrate data from CLDF datasets, and output to a variety of formats.
+* [pylingdocs](www.fl.mt/pylingdocs): write data-rich linguistics documents. You can integrate data from CLDF datasets, and output to a variety of formats.
     * there's a [GUI](https://github.com/fmatter/pylingdocs-gui), too
 * [pyradigms](https://github.com/fmatter/pyradigms): compose and decompose linguistic paradigms; basically pivot tables for linguistics.
 * [lingtreemaps](https://github.com/fmatter/lingtreemaps): plot data on linguistic trees **and** maps.
