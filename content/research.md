@@ -19,6 +19,8 @@ title = "Research output"
 <a name="matter2019bernese"></a>Matter, Florian. 2019. Gliding into a smaller inventory: A reanalysis of Bernese German diphthongs. (ms).
 
 ## Talks
+<a name="sle23"></a> 2023\. [Digital grammaticography: towards data-rich corpus-based interactive hypertext grammars](/pdfs/poster_sle2023.pdf). SLE 2023, University of Athens. 31.08.2023.
+
 <a name="gramgloss"></a> 2023\. [A first glimpse at a workflow for writing digital grammars](/pdfs/glossgram.pdf). GLOSS Colloquium, University of Oregon. 21.02.2023.
 
 <a name="altnp"></a> 2022\. [Apparent Discontinuous NPs in the Cariban family from the perspective of diachronic typology](https://github.com/fmatter/cariban_nps/) (with Spike Gildea). ALT 2022, University of Texas. 16.12.2022.
@@ -48,7 +50,7 @@ title = "Research output"
 <a name="mapudungunbeling"></a> 2016\. [Preferred Argument Structure in Mapudungun Narratives](/pdfs/beling_PAS.pdf). Forschungskolloquium Berner Linguistik, University of Bern. 26.04.2016.
 
 ## Datasets
-<a name="matter2021swadesh1"></a>Matter, Florian. 2021-01. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. DOI: 10.5281/zenodo.4438189.
+<a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. DOI: 10.5281/zenodo.4438189.
 
 ## Theses
 Diachronic and typological aspects of Cariban verbal argument marking ([PhD thesis](/theses#dissertation)).
