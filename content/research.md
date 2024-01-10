@@ -4,26 +4,30 @@ title = "Research output"
 
 
 ## Published articles
-<a name="matter2019arara"></a>Matter, Florian. 2021. [The origin of split third person marking in Arara (Cariban)](http://www.etnolinguistica.org/article:vol8n2-1). Cadernos de Etnolingüística 8. 1–22.
+<a name="matter2019arara"></a>Matter, Florian. 2021. [The origin of split third person marking in Arara (Cariban)](http://www.etnolinguistica.org/article:vol8n2-1). Cadernos de Etnolingüística 8(2). 1–22.
 
-<a name="matter2020mapudungun"></a>Matter, Florian. 2020. [An Inspection of Preferred Argument Structure in Mapudungun Narratives](https://doi.org/10.1086/705754). International Journal of American Linguistics 86. 59–93. DOI: 10.1086/705754.
+<a name="matter2020mapudungun"></a>Matter, Florian. 2020. [An Inspection of Preferred Argument Structure in Mapudungun Narratives](https://doi.org/10.1086/705754). International Journal of American Linguistics 86(1). 59–93. doi: 10.1086/705754. DOI: 10.1086/705754.
 
-<a name="interspeech2015"></a>Kolly, Marie-José and Leemann, Adrian and Matter, Florian. 2015. [Analysis of spatial variation with app-based crowdsourced audio data](https://doi.org/10.21437/Interspeech.2015-393). In Proceedings of Interspeech 2015, 1710–1714. DOI: 10.21437/Interspeech.2015-393.
+<a name="interspeech2015"></a>Kolly, Marie-José, Adrian Leemann & Florian Matter. 2015. [Analysis of spatial variation with app-based crowdsourced audio data](https://doi.org/10.21437/Interspeech.2015-393). In Proceedings of Interspeech 2015, 1710–1714. doi: 10.21437/Interspeech.2015-393. DOI: 10.21437/Interspeech.2015-393.
 
 ## Accepted
 <a name="matter2021irregular"></a>Matter, Florian. 2022. [A comparative account of intransitive verbs with conservative first person forms in Cariban](https://github.com/fmatter/cariban\_irregular\_1). (Accepted).
 
 ## Unpublished
-<a name="matter2021linking"></a>Matter, Florian and van Gijn, Rik. 2022. “Linking” morphology in Tupían, Cariban, and Macro-Jê languages. (ms).
+<a name="matter2021linking"></a>Matter, Florian & Rik van Gijn. 2022. “Linking” morphology in Tupían, Cariban, and Macro-Jê languages. (ms).
 
 <a name="matter2019bernese"></a>Matter, Florian. 2019. Gliding into a smaller inventory: A reanalysis of Bernese German diphthongs. (ms).
 
 ## Talks
 <a name="sle23"></a> 2023\. [Digital grammaticography: towards data-rich corpus-based interactive hypertext grammars](/pdfs/poster_sle2023.pdf). SLE 2023, University of Athens. 31.08.2023.
 
+<a name="amazonicas23"></a> 2023\. [A digital sketch grammar of Yawarana](/pdfs/amazonicas23.pdf). Amazonicas IX, University of the Andes. 09.06.2023.
+
 <a name="gramgloss"></a> 2023\. [A first glimpse at a workflow for writing digital grammars](/pdfs/glossgram.pdf). GLOSS Colloquium, University of Oregon. 21.02.2023.
 
 <a name="altnp"></a> 2022\. [Apparent Discontinuous NPs in the Cariban family from the perspective of diachronic typology](https://github.com/fmatter/cariban_nps/) (with Spike Gildea). ALT 2022, University of Texas. 16.12.2022.
+
+<a name="sle22"></a> 2022\. A second comparison of Cariban pronouns and deictics. SLE 2022, University of Bucharest. 26.08.2022.
 
 <a name="irregularsle"></a> 2021\. [Irregular first person inflections in Cariban: converging factors for morphological (dis-)similarity](https://osf.io/8zqe4/). SLE 2021, Online. 31.08.2021.
 
@@ -50,7 +54,7 @@ title = "Research output"
 <a name="mapudungunbeling"></a> 2016\. [Preferred Argument Structure in Mapudungun Narratives](/pdfs/beling_PAS.pdf). Forschungskolloquium Berner Linguistik, University of Bern. 26.04.2016.
 
 ## Datasets
-<a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. DOI: 10.5281/zenodo.4438189.
+<a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. doi: 10.5281/zenodo.4438189. DOI: 10.5281/zenodo.4438189.
 
 ## Theses
 Diachronic and typological aspects of Cariban verbal argument marking ([PhD thesis](/theses#dissertation)).
