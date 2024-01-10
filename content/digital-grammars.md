@@ -21,7 +21,7 @@ There was also the now-defunct GALOES {{< cite "nordhoff2007galoes;nordhoff2007w
 
 ## My approach
 
-Under construction: [do-it-yourself guide](https://fl.mt/digital-grammar-tutorial/latest)
+**Under construction: [do-it-yourself guide](https://fl.mt/digital-grammar-tutorial/latest)**.
 
 * linguistic linked data {{< cite "chiarcos2012linked" >}}, implemented in the [CLDF](https://cldf.clld.org/)/[CLLD](https://clld.org/) ecosystem
 * descriptive prose is written in markdown, compiled to different (customizable) output formats with [lingdocs](https://fl.mt/lingdocs)
