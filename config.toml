@@ -49,7 +49,7 @@ url = "https://orcid.org/0000-0002-2545-5154"
   url = "/research/"
 
   [[menu.main]]
-  name = "Code"
+  name = "Software"
   identifier = "software"
   weight = 300
   url = "/software/"
