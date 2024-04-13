@@ -9,7 +9,7 @@ I mostly code in Python; here's some of the software I've developed:
 * [lingcorp](https://fl.mt/lingcorp/): simple corpus annotation oriented for fieldwork-style data.
 * [pyradigms](https://github.com/fmatter/pyradigms): compose and decompose linguistic paradigms; basically pivot tables for linguistics.
 * [lingtreemaps](https://github.com/fmatter/lingtreemaps): plot data on linguistic trees **and** maps.
-* the [unboxer](https://github.com/fmatter/unboxer): extract data from [shoebox](https://software.sil.org/shoebox/) and [toolbox](https://software.sil.org/toolbox/) projects to [CLDF](https://cldf.clld.org/)-ready CSV files. 
+* the [unboxer](https://fl.mt/unboxer/): extract data from [shoebox](https://software.sil.org/shoebox/) and [toolbox](https://software.sil.org/toolbox/) projects to [CLDF](https://cldf.clld.org/)-ready CSV files. 
 * [cldflex](https://github.com/fmatter/cldflex): convert [FLEx](https://software.sil.org/fieldworks/) data to [CLDF](https://cldf.clld.org/)-ready CSV files.
 * [expex-acro](https://ctan.org/pkg/expex-acro): glossing abbreviations and useful linguistic markup commands for LaTeX
 * [biblatex2bibtex](https://github.com/fmatter/biblatex2bibtex): convert biblatex files to bibtex.
