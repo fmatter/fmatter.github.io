@@ -2,12 +2,13 @@
 title="Theses"
 +++
 
-## Dissertation
+## Doctoral Dissertation
 
+### The Development and Typology of Verbal Argument Marking in Cariban Languages
 
-My doctoral thesis treats the development and the typology of verbal argument marking in [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages.
-A companion database is currently  served as a [CLLD](https://clld.org/) web app [here](https://cariban.clld.org/), source code is available [here](https://github.com/clld/cariban).
-A brief summary of the contents:
+My doctoral research investigates the complex system of verbal argument marking in the Cariban language family, examining both synchronic variation and historical development. I explore how these systems evolved and what this tells us about the typology of verbal alignment.
+
+A companion database is available as a [CLLD](https://clld.org/) web application [here](https://cariban.clld.org/) ([source code](https://github.com/clld/cariban)).
 
 ### 1. Introduction
 This chapter introduces the extant languages of the family, as well as the most important literature on them.

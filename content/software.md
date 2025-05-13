@@ -2,15 +2,31 @@
 title = "Software"
 +++
 
-I mostly code in Python; here's some of the software I've developed:
+# Linguistic Software Tools
 
-* [lingdocs](https://fl.mt/lingdocs): write data-rich linguistics documents. You can integrate data from CLDF datasets, and output to a variety of formats.
-    * there's a [GUI](https://github.com/fmatter/pylingdocs-gui), too
-* [lingcorp](https://fl.mt/lingcorp/): simple corpus annotation oriented for fieldwork-style data.
-* [pyradigms](https://github.com/fmatter/pyradigms): compose and decompose linguistic paradigms; basically pivot tables for linguistics.
-* [lingtreemaps](https://github.com/fmatter/lingtreemaps): plot data on linguistic trees **and** maps.
-* the [unboxer](https://fl.mt/unboxer/): extract data from [shoebox](https://software.sil.org/shoebox/) and [toolbox](https://software.sil.org/toolbox/) projects to [CLDF](https://cldf.clld.org/)-ready CSV files. 
-* [cldflex](https://github.com/fmatter/cldflex): convert [FLEx](https://software.sil.org/fieldworks/) data to [CLDF](https://cldf.clld.org/)-ready CSV files.
-* [expex-acro](https://ctan.org/pkg/expex-acro): glossing abbreviations and useful linguistic markup commands for LaTeX
-* [biblatex2bibtex](https://github.com/fmatter/biblatex2bibtex): convert biblatex files to bibtex.
-* [humidifier](https://github.com/fmatter/humidifier): create human-friendly IDs from strings. 
+I develop open-source tools for linguistic research, primarily in Python. My software focuses on data management, analysis, visualization, and document preparation for linguists. Check my [GitHub profile](https://github.com/fmatter) for more.
+
+## Document Preparation
+
+- **[lingdocs](https://fl.mt/lingdocs)** - Write data-rich linguistics documents with integrated CLDF dataset support and multiple output formats
+- **[expex-acro](https://ctan.org/pkg/expex-acro)** - LaTeX package for glossing abbreviations and linguistic markup
+
+## Corpus Management & Analysis
+
+- **[lingcorp](https://fl.mt/lingcorp/)** - Simple corpus annotation system designed for fieldwork data
+- **[pyradigms](https://github.com/fmatter/pyradigms)** - Compose and decompose linguistic paradigms (essentially pivot tables for linguistics)
+- **[cldf-ldd](https://fl.mt/cldf-ldd)** - Component collection for linguistic descriptive data in CLDF
+
+## Data Conversion & Integration
+
+- **[unboxer](https://fl.mt/unboxer/)** - Extract data from [Shoebox](https://software.sil.org/shoebox/) and [Toolbox](https://software.sil.org/toolbox/) to [CLDF](https://cldf.clld.org/)-ready formats
+- **[cldflex](https://github.com/fmatter/cldflex)** - Convert [FLEx](https://software.sil.org/fieldworks/) data to [CLDF](https://cldf.clld.org/)-ready formats
+
+## Visualization & Mapping
+
+- **[lingtreemaps](https://github.com/fmatter/lingtreemaps)** - Plot linguistic data simultaneously on phylogenetic trees and geographic maps
+
+## Utilities
+
+- **[humidifier](https://github.com/fmatter/humidifier)** - Create human-friendly IDs from strings
+- **[biblatex2bibtex](https://github.com/fmatter/biblatex2bibtex)** - Convert BibLaTeX files to BibTeX format

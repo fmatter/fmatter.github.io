@@ -37,28 +37,16 @@ url = "https://orcid.org/0000-0002-2545-5154"
   url = "/"
 
   [[menu.main]]
-  name = "Digital grammars"
-  identifier = "digital-grammars"
-  weight = 200
-  url = "/digital-grammars/"
-
-  [[menu.main]]
-  name = "Cariban"
-  identifier = "irr"
-  weight = 250
-  url = "/irr/"
+  name = "Software"
+  identifier = "software"
+  weight = 300
+  url = "/software/"
 
   [[menu.main]]
   name = "Research output"
   identifier = "research"
-  weight = 300
-  url = "/research/"
-
-  [[menu.main]]
-  name = "Software"
-  identifier = "software"
   weight = 400
-  url = "/software/"
+  url = "/research/"
 
 [module]
   # uncomment line below for temporary local development of module

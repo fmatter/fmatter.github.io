@@ -11,4 +11,13 @@ I have also built comparative databases, morphological parsers, transliteration 
 I also have experience as a full-stack web developer, mostly using Django and Bootstrap.
 Currently I am creating the [next version of the TITUS database](https://titus2.uni-frankfurt.de/).
 A particular interest of mine are maps; two examples of my work are the interactive map of German-speaking Switzerland in the [Swiss German Dialect Corpus](https://chmk.ch/de/), and a python library for [projecting family trees onto maps](https://lingtreemaps.readthedocs.io/en/latest/examples.html).
-If you are interested in working with me, please [get in touch](mailto:florianmatter@mailbox.org).
+
+
+## Quick Links
+
+- [Software](/software)
+- [CV](/cv)
+- [Publications](/research)
+- [Theses](/theses)
+
+If you're interested in collaboration, please [get in touch](mailto:florianmatter@mailbox.org).
