@@ -48,12 +48,13 @@ Last updated: May 2025
 |--------------|-------|---------|-
 | deu | native language (natively spoken variety: Bernese German) | &nbsp; | &nbsp; |
 | eng | fluent | &nbsp; | &nbsp; |
-| swe/fra | good command | &nbsp; | &nbsp; |
-| spa | solid command | &nbsp; | &nbsp; |
-| por/nld | basic knowledge | &nbsp; | &nbsp; |
-| ell/rus/tpi | rudimentary knowledge | &nbsp; | &nbsp; |
+| fra | C1 | &nbsp; | &nbsp; |
+| swe | B2 | &nbsp; | &nbsp; |
+| spa | B1 | &nbsp; | &nbsp; |
+| por/nld | A2 | &nbsp; | &nbsp; |
+| ell/rus/tpi | A1 | &nbsp; | &nbsp; |
 | arn/lat | passive knowledge | &nbsp; | &nbsp; |
 
-[View all publications →](/publications)
+[View all publications →](/research)
 
 [Download PDF CV](/pdfs/cv.pdf)
