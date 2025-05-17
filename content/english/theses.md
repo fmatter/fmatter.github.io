@@ -58,7 +58,7 @@ I argue that the loss or preservation of *\*t-* in certain verbs correlates with
 My MA thesis was titled “Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives”.
 I coded a corpus of [Mapudungun](https://glottolog.org/resource/languoid/id/mapu1245) narratives for syntactic role, formal expression, animacy, information status, and semantic role.
 I then tested different predictions from the literature on preferred argument structure.
-The results were published as [Matter (2020)](/research-output/#matter2020mapudungun), a copy of the turned in version can be found [here](/pdfs/MA_Matter.pdf).
+The results were published as [Matter (2020)](https://doi.org/10.1086/705754), a copy of the turned in version can be found [here](/pdfs/MA_Matter.pdf).
 
 ## BA thesis
 

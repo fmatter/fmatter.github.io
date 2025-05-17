@@ -1,5 +1,5 @@
 +++
-title="Theses"
+title="Abschlussarbeiten"
 +++
 
 ## Doktorarbeit
@@ -23,7 +23,7 @@ Ich stelle die Muster der Personenmarkierung in den einzelnen Sprachen vor. Dabe
 Die mit Set-I-Präfixen gebildeten Verbformen in karibischen Sprachen wurden oft als hierarchisches Alignment beschrieben. Ich zeige, dass eine konsistente Definition des Alignment die hierarchische Komponente ausschließt und stattdessen je nach Personenkonstellation im transitiven Szenario unterschiedliche Alignmenttypen resultieren.
 
 ### 5. Hierarchische Effekte, Inversion und pragmatische Tarnung
-In Sprachen, die einen Hierarchieeffekt (SAP > 3) aufweisen, untersuche ich zunächst mögliche proto-karibanische Ursprünge und dann die Veränderungen in den Tochtersprachen. Ich diskutiere kurz grammatische Inversion und zeige, dass dieser Ansatz für das karibische System nicht ausreichend ist.
+In Sprachen, die einen Hierarchieeffekt (SAP > 3) aufweisen, untersuche ich zunächst mögliche proto-karibische Ursprünge und dann die Veränderungen in den Tochtersprachen. Ich diskutiere kurz grammatische Inversion und zeige, dass dieser Ansatz für das karibische System nicht ausreichend ist.
 
 ### 6. Linker-Präfixe und Linkerverhalten
 Proto-Kariban besaß einen Linker [j-](https://cariban.clld.org/cognateset/link), der Adjazenz ausdrückt. Ich gebe einen Überblick über die Linkermorphologie in heutigen karibischen Sprachen und die historische Abwesenheit des Präfixes *\*j-* bei *\*t*-Präfixen.
@@ -31,10 +31,10 @@ Proto-Kariban besaß einen Linker [j-](https://cariban.clld.org/cognateset/link)
 ### 7. *\*t*-Präfix-Verben
 Dieses Kapitel behandelt eine Gruppe von transitiven Verben, die in Proto-Kariban statt eines *\*i-* ein *\*t-* als 3. Person-Marker aufwiesen. Ich untersuche die Verteilung dieser Präfixe in heutigen Sprachen und argumentiere, dass ihr Beibehalten oder Verlust mit der Nutzungsfrequenz korreliert.
 
-## Masterarbeit
+## Masterarbeit {#ma-thesis}
 
-Meine Masterarbeit mit dem Titel „Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives“ kodierte Erzählungen im Mapudungun-Korpus hinsichtlich syntaktischer Rolle, Form, Animazität, Informationsstatus und semantischer Rolle. Die Ergebnisse wurden als Matter (2020) veröffentlicht und sind [hier](/pdfs/MA_Matter.pdf) einsehbar.
+Meine Masterarbeit mit dem Titel „Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives“ kodierte Erzählungen in einem Mapudungun-Korpus hinsichtlich syntaktischer Rolle, Form, Animazität, Informationsstatus und semantischer Rolle. Die Ergebnisse wurden als [Matter (2020)](https://doi.org/10.1086/705754) veröffentlicht; die abgegebene Version ist [hier](/pdfs/MA_Matter.pdf) einsehbar.
 
-## Bachelorarbeit
+## Bachelorarbeit {#ba-thesis}
 
-Meine Bachelorarbeit „Die Realisierung von „g’ha“ durch ein Affrikat in schweizerdeutschen Dialekten“ untersuchte, ob Sprecher im Dialäkt-Äpp den Partizipialstamm von „haben“ mit aspiriertem Plosiv oder Affrikat realisieren. Ich verglich die geographische Verteilung mit den SDS-Ergebnissen. Die Publikation ist [hier](/pdfs/BA_Matter.pdf) verfügbar.
+In meiner Bachelorarbeit „The realisation of *g'ha* with an affricate in Swiss German dialects“ untersuchte ich, ob Sprecher im Dialäkt-Äpp die Partizipialform von „haben“ mit aspiriertem Plosiv oder Affrikate realisieren. Ich verglich die geographische Verteilung mit den SDS-Ergebnissen. Die Arbeit ist [hier](/pdfs/BA_Matter.pdf) verfügbar.
