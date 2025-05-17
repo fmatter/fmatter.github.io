@@ -67,6 +67,6 @@ Last updated: May 2025
 | ell/rus/tpi | A1 | &nbsp; | &nbsp; |
 | arn/lat | passive knowledge | &nbsp; | &nbsp; |
 
-[View research →](/research)
+[View publications →](/research)
 
 [Download PDF](/pdfs/cv_en.pdf)

@@ -2,7 +2,7 @@
 title = "CV"
 +++
 
-Zuletzt aktualisiert: May 2025
+Zuletzt aktualisiert: Mai 2025
 
 ## Erfahrung
 
@@ -67,6 +67,6 @@ Zuletzt aktualisiert: May 2025
 | por/nld | A2 | &nbsp; | &nbsp; |
 | ell/rus/tpi | A1 | &nbsp; | &nbsp; |
 
-[Forschung →](/de/research)
+[Forschungsbeiträge einsehen →](/de/research)
 
 [PDF herunterladen](/pdfs/cv_de.pdf)

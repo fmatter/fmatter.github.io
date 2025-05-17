@@ -10,10 +10,10 @@ title = "Research output"
 
 <a name="interspeech2015"></a>Kolly, Marie-José, Adrian Leemann & Florian Matter. 2015. [Analysis of spatial variation with app-based crowdsourced audio data](https://doi.org/10.21437/Interspeech.2015-393). In Proceedings of Interspeech 2015, 1710–1714. doi: 10.21437/Interspeech.2015-393. DOI: 10.21437/Interspeech.2015-393.
 
-## Accepted
+## Accepted for publication
 <a name="matter2021irregular"></a>Matter, Florian. 2022. [A comparative account of intransitive verbs with conservative first person forms in Cariban](https://github.com/fmatter/cariban\_irregular\_1). (Accepted).
 
-## Unpublished
+## Unpublished work
 <a name="matter2021linking"></a>Matter, Florian & Rik van Gijn. 2022. “Linking” morphology in Tupían, Cariban, and Macro-Jê languages. (ms).
 
 <a name="matter2019bernese"></a>Matter, Florian. 2019. Gliding into a smaller inventory: A reanalysis of Bernese German diphthongs. (ms).

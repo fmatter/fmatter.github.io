@@ -13,11 +13,10 @@ Ich habe auch als Full-Stack-Webentwickler mit Django und Bootstrap gearbeitet.
 Derzeit entwickle ich die [nächste Version der TITUS-Datenbank](https://titus2.uni-frankfurt.de/).
 Eine besondere Leidenschaft sind Karten: Zwei Beispiele meiner Arbeit sind die interaktive Karte der deutschsprachigen Schweiz im [Schweizerdeutschen Dialektkorpus](https://chmk.ch/de/) und eine Python-Bibliothek zum [Visualisieren von Daten auf Sprachkarten und -bäumen (gleichzeitig!)](https://lingtreemaps.readthedocs.io/en/latest/examples.html).
 
-## Siehe auch
+## Quick links
 
-- [Software](/software)
 - [CV](/cv)
+- [Software](/software)
 - [Veröffentlichungen](/research)
-- [Thesen](/theses)
 
 Bei Interesse an einer Zusammenarbeit freue ich mich über eine [Kontaktaufnahme](mailto:florianmatter@mailbox.org).

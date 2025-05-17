@@ -15,9 +15,8 @@ A particular interest of mine are maps; two examples of my work are the interact
 
 ## Quick Links
 
-- [Software](/software)
 - [CV](/cv)
+- [Software](/software)
 - [Publications](/research)
-- [Theses](/theses)
 
 If you're interested in collaboration, please [get in touch](mailto:florianmatter@mailbox.org).
