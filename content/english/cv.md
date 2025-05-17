@@ -34,6 +34,18 @@ Last updated: May 2025
 | &nbsp; | Linguistics (120 ECTS); Computer Science (60 ECTS) | &nbsp; | &nbsp; |
 | 08.2006 - 06.2010 | Gymnasial Matura (Collège Ste. Croix; Freiburg (CH); English (major); Music (minor)) | &nbsp; | &nbsp; |
 
+## Teaching activities
+
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|--------------|-------|---------|-
+| 2019/21 | Morphologie | &nbsp; | &nbsp; |
+| 2016/18/19/20 | Bachelor- und Masterarbeitskolloquium | &nbsp; | &nbsp; |
+| 2016/18/19 | Einführung in LaTeX für Linguisten | &nbsp; | &nbsp; |
+| 2017/18 | Einführung in die allgemeine Linguistik | &nbsp; | &nbsp; |
+| 2018 | Argumentmarkierung in den Sprachen der Welt | &nbsp; | &nbsp; |
+| 2017 | Dialektologie | &nbsp; | &nbsp; |
+| 2016/17 | Phonetik | &nbsp; | &nbsp; |
+
 ## Digital competences
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -55,6 +67,6 @@ Last updated: May 2025
 | ell/rus/tpi | A1 | &nbsp; | &nbsp; |
 | arn/lat | passive knowledge | &nbsp; | &nbsp; |
 
-[View all publications →](/research)
+[View research →](/research)
 
-[Download PDF CV](/pdfs/cv.pdf)
+[Download PDF](/pdfs/cv_en.pdf)

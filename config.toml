@@ -28,25 +28,23 @@ icon = "fab fa-orcid"
 title = "orcid"
 url = "https://orcid.org/0000-0002-2545-5154"
 
-[menu]
-
-  [[menu.main]]
-  name = "About me"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Software"
-  identifier = "software"
-  weight = 300
-  url = "/software/"
-
-  [[menu.main]]
-  name = "Research output"
-  identifier = "research"
-  weight = 400
-  url = "/research/"
+# [[menu.main]]
+#   name = "About me"
+#   identifier = "home"
+#   weight = 100
+#   url = "/"
+#
+# [[menu.main]]
+#   name = "Software"
+#   identifier = "software"
+#   weight = 300
+#   url = "/software/"
+#
+# [[menu.main]]
+#   name = "Research output"
+#   identifier = "research"
+#   weight = 400
+#   url = "/research/"
 
 [module]
   # uncomment line below for temporary local development of module
@@ -57,3 +55,51 @@ url = "https://orcid.org/0000-0002-2545-5154"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+# Multi-language configuration
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight       = 10
+    contentDir   = "content/english"
+
+    [[languages.en.menu.main]]
+      name       = "About me"
+      identifier = "home"
+      url        = "/"
+      weight     = 100
+
+    [[languages.en.menu.main]]
+      name       = "Software"
+      identifier = "software"
+      url        = "/software/"
+      weight     = 300
+
+    [[languages.en.menu.main]]
+      name       = "Research output"
+      identifier = "research"
+      url        = "/research/"
+      weight     = 400
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight       = 20
+    contentDir   = "content/deutsch"
+
+    [[languages.de.menu.main]]
+      name       = "Über mich"
+      identifier = "home"
+      url        = "/de/"
+      weight     = 100
+
+    [[languages.de.menu.main]]
+      name       = "Software"
+      identifier = "software"
+      url        = "/de/software/"
+      weight     = 300
+
+    [[languages.de.menu.main]]
+      name       = "Forschung"
+      identifier = "research"
+      url        = "/de/research/"
+      weight     = 400

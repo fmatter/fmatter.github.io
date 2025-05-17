@@ -4,7 +4,9 @@ title = "Software"
 
 # Linguistic Software Tools
 
-I develop open-source tools for linguistic research, primarily in Python. My software focuses on data management, analysis, visualization, and document preparation for linguists. Check my [GitHub profile](https://github.com/fmatter) for more.
+I develop open-source tools for linguistic research, primarily in Python.
+My software focuses on data management, analysis, transformation, and visualization, usually related to languages.
+Check my [GitHub profile](https://github.com/fmatter) for more.
 
 ## Document Preparation
 
