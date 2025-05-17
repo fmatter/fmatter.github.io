@@ -128,15 +128,15 @@ title: "Forschungsergebnisse"
 
 
 
-Diachronic and typological aspects of Cariban verbal argument marking ([PhD thesis](/theses#dissertation)).
+Diachronic and typological aspects of Cariban verbal argument marking ([PhD thesis]({{< relref "theses.md#dissertation" >}})).
 
 
 
-Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives ([MA thesis](/theses#ma-thesis)).
+Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives ([MA thesis]({{< relref "theses.md#ma-thesis" >}})).
 
 
 
-The realisation of *g'ha* with an affricate in Swiss German dialects ([BA thesis](/theses#ba-thesis)).
+The realisation of *g'ha* with an affricate in Swiss German dialects ([BA thesis]({{< relref "theses.md#ba-thesis" >}})).
 
 
 
