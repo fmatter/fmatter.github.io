@@ -59,7 +59,7 @@ unsafe = true
 # Multi-language configuration
 [languages]
   [languages.en]
-    languageName = "English"
+    languageName = "eng"
     weight       = 10
     contentDir   = "content/english"
 
@@ -82,7 +82,7 @@ unsafe = true
       weight     = 400
 
   [languages.de]
-    languageName = "Deutsch"
+    languageName = "deu"
     weight       = 20
     contentDir   = "content/deutsch"
 
