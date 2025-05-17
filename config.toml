@@ -1,4 +1,4 @@
-baseURL = "http://fl.mt"
+baseURL = "https://fl.mt"
 languageCode = "en-us"
 title = "Florian Matter"
 theme = "hugo-cite"
