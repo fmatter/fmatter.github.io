@@ -19,6 +19,11 @@ title = "e-mail"
 url = "mailto:fmatter@mailbox.org"
 
 [[params.socialIcons]]
+icon = "fas fa-key"
+title = "PGP Key"
+url = "/pgp-key.asc" # Changed to .asc file in static
+
+[[params.socialIcons]]
 icon = "fab fa-github"
 title = "github"
 url = "https://github.com/fmatter"
@@ -27,6 +32,7 @@ url = "https://github.com/fmatter"
 icon = "fab fa-orcid"
 title = "orcid"
 url = "https://orcid.org/0000-0002-2545-5154"
+
 
 # [[menu.main]]
 #   name = "About me"
