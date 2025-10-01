@@ -2,13 +2,14 @@
 title = "CV"
 +++
 
-Zuletzt aktualisiert: Mai 2025
+Zuletzt aktualisiert: Oktober 2025
 
 ## Erfahrung
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
-| 07.2024 - 07.2025 | Wissenschaftlicher Programmierer (Goethe-Universität Frankfurt) | &nbsp; | &nbsp; |
+| 08.2025 - 12.2025 | Computerlinguist (Schweizerisches Idiotikon) | &nbsp; | &nbsp; |
+| 07.2024 - 06.2025 | Wissenschaftlicher Programmierer (Goethe-Universität Frankfurt) | &nbsp; | &nbsp; |
 | &nbsp; | Projekt: [TITUS 2.0 Datenbank](https://titus2.uni-frankfurt.de/) | &nbsp; | &nbsp; |
 | 02.2022 - 02.2024 | Postdoctoral fellow (University of Oregon; Eugene OR) | &nbsp; | &nbsp; |
 | &nbsp; | Arbeitsbeispiel: [Visualisierung von Daten auf Sprachfamilien-Bäumen und -Karten](https://lingtreemaps.readthedocs.io/en/latest/examples.html) | &nbsp; | &nbsp; |
