@@ -2,12 +2,14 @@
 title = "CV"
 +++
 
-Last updated: October 2025
+Last updated: November 2025
 
 ## Experience
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
+| 10.2025 - 12.2025 | Scientific programmer (Universität Bern) | &nbsp; | &nbsp; |
+| &nbsp; | Comparative dictionary of Tibetan dialects | &nbsp; | &nbsp; |
 | 08.2025 - 12.2025 | Computer linguist (Schweizerisches Idiotikon) | &nbsp; | &nbsp; |
 | 07.2024 - 06.2025 | Scientific programmer (Goethe-University Frankfurt) | &nbsp; | &nbsp; |
 | &nbsp; | Project: [TITUS 2.0 database](https://titus2.uni-frankfurt.de/) | &nbsp; | &nbsp; |
