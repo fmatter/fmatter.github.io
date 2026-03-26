@@ -6,7 +6,9 @@ title="Abschlussarbeiten"
 
 ### Die Entwicklung und Typologie der Verb-Argument-Markierung in Karibischen Sprachen
 
-Meine Doktorarbeit untersucht das komplexe System der Verb-Argument-Markierung in der karibischen Sprachfamilie, betrachtet dabei synchronische Variation und historische Entwicklungen und zeigt auf, wie sich diese Systeme entwickelt haben und welche Rückschlüsse sie auf die Typologie des Verbalalignments zulassen.
+Meine Doktorarbeit untersucht das komplexe System der Verb-Argument-Markierung in der karibischen Sprachfamilie, betrachtet dabei synchronische Variation und historische Entwicklungen und zeigt auf, wie sich diese Systeme entwickelt haben und welche Rückschlüsse sie auf die Typologie des Verbalalignements zulassen.
+
+**Die publizierte Version ist [hier](https://boristheses.unibe.ch/7050/) verfügbar.**
 
 Eine begleitende Datenbank steht als [CLLD](https://clld.org/) Webanwendung [hier](https://cariban.clld.org/) zur Verfügung ([Quellcode](https://github.com/clld/cariban)).
 

@@ -8,6 +8,8 @@ title="Theses"
 
 My doctoral research investigates the complex system of verbal argument marking in the Cariban language family, examining both synchronic variation and historical development. I explore how these systems evolved and what this tells us about the typology of verbal alignment.
 
+**The published version can be found [here](https://boristheses.unibe.ch/7050/).**
+
 A companion database is available as a [CLLD](https://clld.org/) web application [here](https://cariban.clld.org/) ([source code](https://github.com/clld/cariban)).
 
 ### 1. Introduction
