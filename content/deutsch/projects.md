@@ -7,13 +7,16 @@ Siehe mein [GitHub-Profil](https://github.com/fmatter) für weitere Informatione
 
 ## Hauptprojekte
 
-*[In Bearbeitung - Platzhalter für TITUS 2.0, CHMK-Dialektsuchkarte, neue CDTD-Version und andere Schaufensterprojekte]*
+- **[TITUS 2.0](https://titus2.uni-frankfurt.de/)** - Nächste Generation der TITUS-Datenbank für historische Linguistik und alte indoeuropäische Sprachen
+- **[Schweizerdeutsches Dialektkorpus Karte](https://chmk.ch/de/)** - Räumliche Modellierung der im Idiotikon verwendeten Dialektgebiete und Integration in eine interaktive Suchkarte
+- **CDTD (Comparative Dictionary of Tibetan Dialects)** - Rettung von Legacy-HyperCard-Daten und Vorbereitung der Publikation des zweiten Bandes
 
 ## Projekte zu karibischen Sprachen
 
 Meine Arbeit mit [karibischen Sprachen](https://glottolog.org/resource/languoid/id/cari1283) umfasst Dokumentation, Analyse und die Entwicklung digitaler Ressourcen:
 
 - **[Cariban Database](https://cariban.clld.org/)** - Umfassende Sammlung linguistischer Daten zu karibischen Sprachen, strukturiert als [CLDF](https://cldf.clld.org/)-Datensatz und bereitgestellt über eine [CLLD](https://clld.org/)-Webanwendung ([Quellcode](https://github.com/clld/cariban))
+- **[Yawarana Digital Sketch Grammar](/yawarana-sketch/)** - Digitale Grammatik des Yawarana, einer in Venezuela gesprochenen karibischen Sprache
 - **[Yawarana Corpus (CLDF)](https://github.com/caribank/yawarana-corpus-cldf)** - Strukturierter Korpusdatensatz
 - **[Yawarana Morphologischer Parser](https://github.com/fmatter/uniparser-yawarana)** - Computergestützte morphologische Analysewerkzeuge
 
