@@ -2,21 +2,32 @@
 title = "Projekte"
 +++
 
-# Projekte
-
 Ich entwickle Open-Source-Tools für die linguistische Forschung, hauptsächlich in Python. Meine Software konzentriert sich auf Datenverwaltung, -analyse, -aufbereitung und -visualisierung, meistens mit Sprachdaten.
 Siehe mein [GitHub-Profil](https://github.com/fmatter) für weitere Informationen.
 
-## Dokumentenaufbereitung
+## Hauptprojekte
+
+*[In Bearbeitung - Platzhalter für TITUS 2.0, CHMK-Dialektsuchkarte, neue CDTD-Version und andere Schaufensterprojekte]*
+
+## Projekte zu karibischen Sprachen
+
+Meine Arbeit mit [karibischen Sprachen](https://glottolog.org/resource/languoid/id/cari1283) umfasst Dokumentation, Analyse und die Entwicklung digitaler Ressourcen:
+
+- **[Cariban Database](https://cariban.clld.org/)** - Umfassende Sammlung linguistischer Daten zu karibischen Sprachen, strukturiert als [CLDF](https://cldf.clld.org/)-Datensatz und bereitgestellt über eine [CLLD](https://clld.org/)-Webanwendung ([Quellcode](https://github.com/clld/cariban))
+- **[Yawarana Corpus (CLDF)](https://github.com/caribank/yawarana-corpus-cldf)** - Strukturierter Korpusdatensatz
+- **Yawarana Morphologischer Parser** - Computergestützte morphologische Analysewerkzeuge
+
+## Open-Source-Linguistikwerkzeuge
+
+### Dokumentenaufbereitung
 
 - **[lingdocs](https://fl.mt/lingdocs)** – Erstellen datenreicher linguistischer Dokumente mit integriertem CLDF-Datensatz-Support und mehreren Ausgabeformaten
 - **[expex-acro](https://ctan.org/pkg/expex-acro)** – LaTeX-Paket für Glossierung von Abkürzungen und linguistisches Markup
 
 ## Korpusverwaltung & -analyse
 
-- **[lingcorp](https://fl.mt/lingcorp/)** – Ein einfaches Korpus-Annotierungssystem für Felddaten
-- **[pyradigms](https://github.com/fmatter/pyradigms)** – Erstellen und Analysieren linguistischer Paradigmen (einfach Pivot-Tabellen für Linguisten)
 - **[cldf-ldd](https://fl.mt/cldf-ldd)** – Sammlung von Komponenten für deskriptive linguistische Daten im CLDF-Format
+- **[pyradigms](https://github.com/fmatter/pyradigms)** – Erstellen und Analysieren linguistischer Paradigmen (einfach Pivot-Tabellen für Linguisten)
 
 ## Datenkonvertierung & Integration
 
