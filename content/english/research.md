@@ -2,7 +2,8 @@
 title: "Research output"
 ---
 
-My research focuses on Cariban languages, Swiss German dialects, and Mapudungun, combining descriptive, historical, and computational approaches to linguistic analysis.
+I have worked on Cariban languages, Swiss German dialects, and Mapudungun, combining descriptive, historical, and computational approaches to linguistic analysis.
+
 
 
 ## Publications
@@ -26,7 +27,9 @@ My research focuses on Cariban languages, Swiss German dialects, and Mapudungun,
 
 
 
-## Doctoral Work
+
+
+## Academic Theses
 
 
 
@@ -43,11 +46,15 @@ My research focuses on Cariban languages, Swiss German dialects, and Mapudungun,
 
 
 
+
+
 ## Datasets
 
 
 
 <a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. doi: 10.5281/zenodo.4438189. DOI: 10.5281/zenodo.4438189.
+
+
 
 
 
@@ -65,7 +72,10 @@ My research focuses on Cariban languages, Swiss German dialects, and Mapudungun,
 
 
 
-## Conference Talks
+
+
+<details>
+<summary><strong>Conference Talks</strong></summary>
 
 
 
@@ -135,5 +145,8 @@ My research focuses on Cariban languages, Swiss German dialects, and Mapudungun,
 
 <a name="mapudungunbeling"></a> 2016\. [Preferred Argument Structure in Mapudungun Narratives](/pdfs/beling_PAS.pdf). Forschungskolloquium Berner Linguistik, University of Bern. 26.04.2016.
 
+
+
+</details>
 
 

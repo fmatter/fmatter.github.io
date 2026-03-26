@@ -2,7 +2,8 @@
 title: "Forschungsergebnisse"
 ---
 
-Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dialekte und Mapudungun und verbindet deskriptive, historische und computergestützte Ansätze der linguistischen Analyse.
+Ich habe zu karibischen Sprachen, schweizerdeutschen Dialekten und Mapudungun gearbeitet und dabei deskriptive, historische und computergestützte Ansätze der linguistischen Analyse verbunden.
+
 
 
 ## Veröffentlichungen
@@ -26,7 +27,9 @@ Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dia
 
 
 
-## Promotionsarbeiten
+
+
+## Akademische Abschlussarbeiten
 
 
 
@@ -43,11 +46,15 @@ Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dia
 
 
 
+
+
 ## Datensätze
 
 
 
 <a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. doi: 10.5281/zenodo.4438189. DOI: 10.5281/zenodo.4438189.
+
+
 
 
 
@@ -65,7 +72,10 @@ Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dia
 
 
 
-## Konferenzvorträge
+
+
+<details>
+<summary><strong>Konferenzvorträge</strong></summary>
 
 
 
@@ -135,5 +145,8 @@ Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dia
 
 <a name="mapudungunbeling"></a> 2016\. [Preferred Argument Structure in Mapudungun Narratives](/pdfs/beling_PAS.pdf). Forschungskolloquium Berner Linguistik, University of Bern. 26.04.2016.
 
+
+
+</details>
 
 

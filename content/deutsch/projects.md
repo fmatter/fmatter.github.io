@@ -15,7 +15,7 @@ Meine Arbeit mit [karibischen Sprachen](https://glottolog.org/resource/languoid/
 
 - **[Cariban Database](https://cariban.clld.org/)** - Umfassende Sammlung linguistischer Daten zu karibischen Sprachen, strukturiert als [CLDF](https://cldf.clld.org/)-Datensatz und bereitgestellt über eine [CLLD](https://clld.org/)-Webanwendung ([Quellcode](https://github.com/clld/cariban))
 - **[Yawarana Corpus (CLDF)](https://github.com/caribank/yawarana-corpus-cldf)** - Strukturierter Korpusdatensatz
-- **Yawarana Morphologischer Parser** - Computergestützte morphologische Analysewerkzeuge
+- **[Yawarana Morphologischer Parser](https://github.com/fmatter/uniparser-yawarana)** - Computergestützte morphologische Analysewerkzeuge
 
 ## Open-Source-Linguistikwerkzeuge
 
