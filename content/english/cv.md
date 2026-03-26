@@ -68,7 +68,7 @@ Last updated: March 2026
 | [`fra`](https://iso639-3.sil.org/code/fra) | C1 | &nbsp; | &nbsp; |
 | [`swe`](https://iso639-3.sil.org/code/swe) | B2 | &nbsp; | &nbsp; |
 | [`spa`](https://iso639-3.sil.org/code/spa) | B1 | &nbsp; | &nbsp; |
-| [`por`](https://iso639-3.sil.org/code/por)/[`nld`](https://iso639-3.sil.org/code/nld) | A2 | &nbsp; | &nbsp; |
+| [`ita`](https://iso639-3.sil.org/code/ita)/[`por`](https://iso639-3.sil.org/code/por)/[`nld`](https://iso639-3.sil.org/code/nld) | A2 | &nbsp; | &nbsp; |
 | [`ell`](https://iso639-3.sil.org/code/ell)/[`rus`](https://iso639-3.sil.org/code/rus)/[`tpi`](https://iso639-3.sil.org/code/tpi) | A1 | &nbsp; | &nbsp; |
 |  | passive knowledge | &nbsp; | &nbsp; |
 
