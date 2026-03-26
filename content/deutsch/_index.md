@@ -5,8 +5,8 @@ Ich stehe derzeit für freiberufliche Arbeit und Kollaborationen zur Verfügung.
 ## Quick links
 
 - [CV]({{< relref "cv" >}})
-- [Software]({{< relref "software" >}})
-- [Veröffentlichungen]({{< relref "research" >}})
+- [Projekte]({{< relref "projects" >}})
+- [Forschung]({{< relref "research" >}})
 
 
 Ich habe einen Hintergrund in deskriptiver und historischer Linguistik und zugleich eine starke computergestützte Ausrichtung entwickelt.
@@ -19,5 +19,5 @@ Ich bin versiert im [CLDF](https://cldf.clld.org/) / [CLLD](https://clld.org/) F
 Darüber hinaus habe ich vergleichende Datenbanken, morphologische Parser, Transliterationssysteme und Tools zum "Lifting" von Altdaten entwickelt.
 
 Ich bin ein Tüftler und Full-Stack-Webentwickler. Obwohl ich mit Django und Bootstrap am vertrautesten bin, versuche ich immer, das beste Werkzeug für die jeweilige Aufgabe auszuwählen.
-<!-- Derzeit entwickle ich die [nächste Version der TITUS-Datenbank](https://titus2.uni-frankfurt.de/). -->
+Derzeit entwickle ich die [nächste Version der TITUS-Datenbank](https://titus2.uni-frankfurt.de/).
 Eine besondere Leidenschaft sind Karten: Zwei Beispiele meiner Arbeit sind die interaktive Karte der deutschsprachigen Schweiz im [Schweizerdeutschen Dialektkorpus](https://chmk.ch/de/) und eine Python-Bibliothek zum [Visualisieren von Daten auf Sprachkarten und -bäumen (gleichzeitig!)](https://lingtreemaps.readthedocs.io/en/latest/examples.html).

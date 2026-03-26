@@ -2,8 +2,14 @@
 title: "Forschungsergebnisse"
 ---
 
+Meine Forschung konzentriert sich auf karibische Sprachen, schweizerdeutsche Dialekte und Mapudungun und verbindet deskriptive, historische und computergestützte Ansätze der linguistischen Analyse.
 
-## Veröffentlichte Artikel
+
+## Veröffentlichungen
+
+
+
+<a name="matter2021irregular"></a>Matter, Florian. 2022. [A comparative account of intransitive verbs with conservative first person forms in Cariban](https://github.com/fmatter/cariban\_irregular\_1). (Accepted).
 
 
 
@@ -20,11 +26,28 @@ title: "Forschungsergebnisse"
 
 
 
-## Akzeptiert zur Publikation
+## Promotionsarbeiten
 
 
 
-<a name="matter2021irregular"></a>Matter, Florian. 2022. [A comparative account of intransitive verbs with conservative first person forms in Cariban](https://github.com/fmatter/cariban\_irregular\_1). (Accepted).
+**PhD:** Diachronic and typological aspects of Cariban verbal argument marking ([Details]({{< relref "theses.md#dissertation" >}}))
+
+
+
+**MA:** Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives ([Details]({{< relref "theses.md#ma-thesis" >}}))
+
+
+
+**BA:** The realisation of *g'ha* with an affricate in Swiss German dialects ([Details]({{< relref "theses.md#ba-thesis" >}}))
+
+
+
+
+## Datensätze
+
+
+
+<a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. doi: 10.5281/zenodo.4438189. DOI: 10.5281/zenodo.4438189.
 
 
 
@@ -42,7 +65,7 @@ title: "Forschungsergebnisse"
 
 
 
-## Vorträge
+## Konferenzvorträge
 
 
 
@@ -111,32 +134,6 @@ title: "Forschungsergebnisse"
 
 
 <a name="mapudungunbeling"></a> 2016\. [Preferred Argument Structure in Mapudungun Narratives](/pdfs/beling_PAS.pdf). Forschungskolloquium Berner Linguistik, University of Bern. 26.04.2016.
-
-
-
-
-## Datensätze
-
-
-
-<a name="matter2021swadesh1"></a>Matter, Florian. 2021. [Modified Swadesh-100 list of 23 Cariban languages](https://doi.org/10.5281/zenodo.4438189). Zenodo. doi: 10.5281/zenodo.4438189. DOI: 10.5281/zenodo.4438189.
-
-
-
-
-## Abschlussarbeiten
-
-
-
-Diachronic and typological aspects of Cariban verbal argument marking ([PhD thesis]({{< relref "theses.md#dissertation" >}})).
-
-
-
-Examining Preferred Argument Structure and Referential Density in Mapudungun Narratives ([MA thesis]({{< relref "theses.md#ma-thesis" >}})).
-
-
-
-The realisation of *g'ha* with an affricate in Swiss German dialects ([BA thesis]({{< relref "theses.md#ba-thesis" >}})).
 
 
 

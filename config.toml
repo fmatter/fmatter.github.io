@@ -70,21 +70,27 @@ unsafe = true
     contentDir   = "content/english"
 
     [[languages.en.menu.main]]
-      name       = "About me"
+      name       = "About"
       identifier = "home"
       url        = "/"
       weight     = 100
 
     [[languages.en.menu.main]]
-      name       = "Software"
-      identifier = "software"
-      url        = "/software/"
+      name       = "Projects"
+      identifier = "projects"
+      url        = "/projects/"
+      weight     = 200
+
+    [[languages.en.menu.main]]
+      name       = "Research"
+      identifier = "research"
+      url        = "/research/"
       weight     = 300
 
     [[languages.en.menu.main]]
-      name       = "Research output"
-      identifier = "research"
-      url        = "/research/"
+      name       = "CV"
+      identifier = "cv"
+      url        = "/cv/"
       weight     = 400
 
   [languages.de]
@@ -99,13 +105,19 @@ unsafe = true
       weight     = 100
 
     [[languages.de.menu.main]]
-      name       = "Software"
-      identifier = "software"
-      url        = "/de/software/"
-      weight     = 300
+      name       = "Projekte"
+      identifier = "projects"
+      url        = "/de/projects/"
+      weight     = 200
 
     [[languages.de.menu.main]]
       name       = "Forschung"
       identifier = "research"
       url        = "/de/research/"
+      weight     = 300
+
+    [[languages.de.menu.main]]
+      name       = "CV"
+      identifier = "cv"
+      url        = "/de/cv/"
       weight     = 400

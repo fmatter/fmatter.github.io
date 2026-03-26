@@ -6,8 +6,8 @@ I am currently available for freelance work and collaborations. If you're intere
 ## Quick Links
 
 - [CV](/cv)
-- [Software](/software)
-- [Publications](/research)
+- [Projects](/projects)
+- [Research](/research)
 
 I have a background in descriptive and historical linguistics, but have developed a heavy computational bend.
 Despite having somewhat specialized on [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages, I am fundamentally interested in all human languages and their structural aspects, from phonetic details to diachronic morphosyntax.
@@ -19,7 +19,7 @@ I am well-versed in the [CLDF](https://cldf.clld.org/)/[CLLD](https://clld.org/)
 I have also built comparative databases, morphological parsers, transliteration systems, and tools for "lifting" legacy data.
 
 I am a tinkerer and full-stack web developer. While I am most comfortable with Django and Bootstrap, I will always try to pick the best tool for the job.
-<!-- Currently I am creating the [next version of the TITUS database](https://titus2.uni-frankfurt.de/). -->
+Currently I am creating the [next version of the TITUS database](https://titus2.uni-frankfurt.de/).
 A particular interest of mine are maps; two examples of my work are the interactive map of German-speaking Switzerland in the [Swiss German Dialect Corpus](https://chmk.ch/de/), and a python library for [projecting family trees onto maps](https://lingtreemaps.readthedocs.io/en/latest/examples.html).
 
 

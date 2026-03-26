@@ -2,15 +2,17 @@
 title = "CV"
 +++
 
-Last updated: November 2025
+Last updated: March 2026
 
 ## Experience
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
-| 10.2025 - 12.2025 | Scientific programmer (Universität Bern) | &nbsp; | &nbsp; |
-| &nbsp; | Comparative dictionary of Tibetan dialects | &nbsp; | &nbsp; |
-| 08.2025 - 12.2025 | Computer linguist (Schweizerisches Idiotikon) | &nbsp; | &nbsp; |
+| 11.2025 - Present | Freelance scientific programmer (Goethe-University Frankfurt) | &nbsp; | &nbsp; |
+| &nbsp; | Project: [TITUS 2.0 database](https://titus2.uni-frankfurt.de/) | &nbsp; | &nbsp; |
+| 10.2025 - Present | Scientific staff (Universität Bern) | &nbsp; | &nbsp; |
+| &nbsp; | Comparative dictionary of Tibetan dialects / Markdown for linguists | &nbsp; | &nbsp; |
+| 08.2025 - Present | Computer linguist (Schweizerisches Idiotikon) | &nbsp; | &nbsp; |
 | 07.2024 - 06.2025 | Scientific programmer (Goethe-University Frankfurt) | &nbsp; | &nbsp; |
 | &nbsp; | Project: [TITUS 2.0 database](https://titus2.uni-frankfurt.de/) | &nbsp; | &nbsp; |
 | 02.2022 - 02.2024 | Postdoctoral fellow (University of Oregon; Eugene OR) | &nbsp; | &nbsp; |
@@ -62,14 +64,12 @@ Last updated: November 2025
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
 | deu | native language (natively spoken variety: Bernese German) | &nbsp; | &nbsp; |
-| eng | fluent | &nbsp; | &nbsp; |
+|  | C2 | &nbsp; | &nbsp; |
 | fra | C1 | &nbsp; | &nbsp; |
 | swe | B2 | &nbsp; | &nbsp; |
 | spa | B1 | &nbsp; | &nbsp; |
 | por/nld | A2 | &nbsp; | &nbsp; |
 | ell/rus/tpi | A1 | &nbsp; | &nbsp; |
-| arn/lat | passive knowledge | &nbsp; | &nbsp; |
-
-[View publications →](/research)
+|  | passive knowledge | &nbsp; | &nbsp; |
 
 [Download PDF](/pdfs/cv_en.pdf)
