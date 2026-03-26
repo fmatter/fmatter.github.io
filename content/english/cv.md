@@ -64,12 +64,12 @@ Last updated: March 2026
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
 | [`deu`](https://iso639-3.sil.org/code/deu) | native language (natively spoken variety: Bernese German) | &nbsp; | &nbsp; |
-|  | C2 | &nbsp; | &nbsp; |
+| [`eng`](https://iso639-3.sil.org/code/eng) | C2 | &nbsp; | &nbsp; |
 | [`fra`](https://iso639-3.sil.org/code/fra) | C1 | &nbsp; | &nbsp; |
 | [`swe`](https://iso639-3.sil.org/code/swe) | B2 | &nbsp; | &nbsp; |
 | [`spa`](https://iso639-3.sil.org/code/spa) | B1 | &nbsp; | &nbsp; |
 | [`ita`](https://iso639-3.sil.org/code/ita)/[`por`](https://iso639-3.sil.org/code/por)/[`nld`](https://iso639-3.sil.org/code/nld) | A2 | &nbsp; | &nbsp; |
 | [`ell`](https://iso639-3.sil.org/code/ell)/[`rus`](https://iso639-3.sil.org/code/rus)/[`tpi`](https://iso639-3.sil.org/code/tpi) | A1 | &nbsp; | &nbsp; |
-|  | passive knowledge | &nbsp; | &nbsp; |
+| [`arn`](https://iso639-3.sil.org/code/arn)/[`lat`](https://iso639-3.sil.org/code/lat) | passive knowledge | &nbsp; | &nbsp; |
 
 [Download PDF](/pdfs/cv_en.pdf)

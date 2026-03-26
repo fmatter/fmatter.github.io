@@ -65,7 +65,7 @@ Zuletzt aktualisiert: März 2026
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |--------------|-------|---------|-
 | [`deu`](https://iso639-3.sil.org/code/deu) | Muttersprache (Dialekt: Berndeutsch) | &nbsp; | &nbsp; |
-| [`C2`](https://iso639-3.sil.org/code/C2) | C2 | &nbsp; | &nbsp; |
+| [`eng`](https://iso639-3.sil.org/code/eng) | C2 | &nbsp; | &nbsp; |
 | [`fra`](https://iso639-3.sil.org/code/fra) | C1 | &nbsp; | &nbsp; |
 | [`swe`](https://iso639-3.sil.org/code/swe) | B2 | &nbsp; | &nbsp; |
 | [`spa`](https://iso639-3.sil.org/code/spa) | B1 | &nbsp; | &nbsp; |
